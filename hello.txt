@@ -1,3 +1,6 @@
 Hello World!
+<<<<<<< HEAD
 this is an another line
 sik
+=======
+>>>>>>> parent of b9416a9 (updated hello.txt)
